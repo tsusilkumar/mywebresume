@@ -7,6 +7,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 body{
 	font-family: 'Raleway', sans-serif;
 }
+.big {
+	margin-bottom: 60px;
+}
 p{
 	margin:0;
 	font-size:1em;
